@@ -1,0 +1,23 @@
+h1{
+	text-align:center ;
+  	color: red;
+}
+
+div{
+ 	background-color: gray; 
+}
+
+p{
+	color: blue;
+    font-size: 20px;
+}
+
+.bti{
+	display: inline;
+  	background-color: green;
+}
+
+.itb{
+	display: block;
+  	background-color: green;
+}
